@@ -119,6 +119,4 @@ Through this project, I improved my understanding of:
 
 **Sujay Pandit**
 
-GitHub: https://github.com/sujay197
-
 ---
